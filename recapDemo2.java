@@ -1,7 +1,7 @@
 public class recapDemo2 {
 
     public static void main (String[] args) {
-        double[] myList = {1.5,2.6,3.8,8.3};
+        double[] myList = {1.5,2.7,3.8,8.3};
         double total = 0;
         double max = myList[0];
 
