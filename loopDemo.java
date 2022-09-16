@@ -16,7 +16,7 @@ public class loopDemo {
        }
         System.out.println("While Döngüsü Bitti");
        //Do-While
-       int j = 100;
+       int j = 80;
        do{
          System.out.println(j);
          j+=2;
