@@ -4,7 +4,7 @@ public class arraysDemo {
         String ogrenci1 = "Murat";
         String ogrenci2 = "Ahmet";
         String ogrenci3 = "Sıla";
-        String ogrenci4 = "Ezgi";
+        String ogrenci4 = "Esra";
 
         System.out.println(ogrenci1);
         System.out.println(ogrenci2);
@@ -16,7 +16,7 @@ public class arraysDemo {
         String[] ogrenciler = new String[3];
         ogrenciler[0] = "Murat";
         ogrenciler[1] = "Sıla";
-        ogrenciler[2] = "Ezgi";
+        ogrenciler[2] = "Esra";
 
         for(int i=0;i<ogrenciler.length;i++) {
             System.out.println(ogrenciler[i]);
