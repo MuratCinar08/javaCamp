@@ -1,6 +1,6 @@
 public class ProductManager {
     public void Add(Product product) {
-        //JDBC
+        // JDBC
         System.out.println("Ürün Eklendi " + product.name);
     }
 }
